@@ -4,7 +4,6 @@ using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using WebMatrixUploader.Data;
 using WebMatrixUploader.Data.DataForMatrix;
-using WebMatrixUploader.Services.Matrix;
 using MathNet.Numerics.LinearAlgebra;
 
 namespace WebMatrixUploader.Controllers;
